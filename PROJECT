@@ -1,0 +1,6 @@
+domain: benjaminapetersen.me
+layout:
+- go.kubebuilder.io/v3
+projectName: kubebuilder-guestbook
+repo: benjaminapetersen.me/kubebuilder-guestbook
+version: "3"
